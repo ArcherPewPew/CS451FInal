@@ -8,7 +8,7 @@ The database is designed to emulate a group of people who play dungeons in drago
 
 ## Cover Page
 
-#Name: 
+# Name: 
 Alex Archer
 
 # Project Title: 
