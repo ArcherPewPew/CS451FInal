@@ -36,3 +36,20 @@ https://ix.cs.uoregon.edu/~aarcher/finalhome.php
 
 Otherwise things are pretty straight forward. I do not do anything too fancy. 
 
+## Summary
+
+This is suppose to be a model of a group of dungeons and dragons players. 
+
+A human plays a Character in a Campaign run by a GameMaster. 
+A Campaign has a source book for material which is like a list of rules and encounters.
+A Character has a Class which is like an archetype. 
+A class has access to a number of spells that have an elemental type. 
+
+Nothing incredibly fancy. The database captures some m-to-m relationships that allow for a class to have multiple spells or for a campaign to have multiple players.
+
+The serice was intially designed to perhaps be something people could add their information to in order to connect with other nerds but for now is useful only for reference of a snapshot in time. 
+
+
+## Model
+
+![model](https://i.imgur.com/rkqethi.png)
