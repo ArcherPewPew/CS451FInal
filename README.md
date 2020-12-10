@@ -12,9 +12,13 @@ Name: Alex Archer
 Project Title: Dungeons and Dragons Database
 
 Connection Information
+
   port number: 3502
+
   hostname: ix.cs.uoregon.edu
+
   guest/guest
+
   database name: dnd
   
 project URL: https://ix.cs.uoregon.edu/~aarcher/finalhome.php
