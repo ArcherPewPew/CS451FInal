@@ -8,6 +8,7 @@ Please find the source code for all of the pages here.
 # Cover Page
 
 Name: Alex Archer
+
 Project Title: Dungeons and Dragons Database
 
 Connection Information
