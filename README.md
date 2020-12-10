@@ -4,6 +4,7 @@ This is the repo for my final project for CS451 in Fall 20.
 
 Please find the source code for all of the pages here. 
 
+The database is designed to emulate a group of people who play dungeons in dragons in various groups and storylines. Perhaps at a local game store or something.
 
 # Cover Page
 
