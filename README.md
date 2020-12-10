@@ -20,7 +20,7 @@ Dungeons and Dragons Database
 
 ## hostname: 
 ix.cs.uoregon.edu
- guest/guest
+guest/guest
 
 ## database name: 
 dnd
