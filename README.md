@@ -50,6 +50,12 @@ Nothing incredibly fancy. The database captures some m-to-m relationships that a
 The serice was intially designed to perhaps be something people could add their information to in order to connect with other nerds but for now is useful only for reference of a snapshot in time. 
 
 
-## Model
+## Logical Design Model
 
 ![model](https://i.imgur.com/rkqethi.png)
+
+## Physical Design Table Descriptions
+
+## User's Guide
+
+## Conclusions 
